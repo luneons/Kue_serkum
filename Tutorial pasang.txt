@@ -1,0 +1,17 @@
+1. Install dulu xampp
+2. Run apache & MySQL
+3. Buka web ketik localhost/phpmyadmin
+4. Buat database baru namanya db_kue
+5. Pencet databasenya lalu pencet Import kemudian cari file db_kue.sql
+6. Pindahin file kue ke htdoc
+7. buka web ketik localhost/kue
+8. kalau mau buka web admin http://localhost/kue/admin/index.php
+
+
+AKUN admin
+admin@gmail.com
+123
+
+AKUN biasa
+a@gmail.com
+a
